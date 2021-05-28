@@ -1,0 +1,19 @@
+{
+  "name": "jsl",
+  "version": "1.0.0",
+  "description": "best description ever",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon todo.js"
+  },
+  "author": "FDC",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6"
+  }
+}
